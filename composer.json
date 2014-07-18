@@ -1,0 +1,17 @@
+{
+    "name": "yfplus/ocweld.my",
+    "description": "Oxweld Website",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Sam",
+            "email": "sam@yfplus.com"
+        }
+    ],
+    "require": {
+        "laravel/laravel": "v4.2.0",
+        "barryvdh/laravel-ide-helper": "1.x-dev",
+        "way/generators": "2.6.1"
+    }
+}
